@@ -21,4 +21,6 @@ The Command-service publish events to Kafka "user" topic ,on the other side the 
 + You need to have Java 17 installed
 + Install the project dependencies
 + In order to prepare the developpement environment (Apache Kafka,MongoDB,Postgres), run the docker-compose containers
++ Access the DBs containers and create users
++ Change the application.properties DBs properties
 + Run the Application
